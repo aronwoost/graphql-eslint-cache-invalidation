@@ -1,0 +1,14 @@
+{
+  "name": "eslint-graphql-case",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "eslint testQuery.graphql --config eslintrc.json --cache --cache-strategy content"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-eslint/eslint-plugin": "^3.9.1",
+    "eslint": "^8.10.0",
+    "graphql": "^16.3.0"
+  }
+}

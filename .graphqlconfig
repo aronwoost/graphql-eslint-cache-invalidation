@@ -1,0 +1,5 @@
+{
+  "name": "BOS schema",
+  "schema": "./schema.graphql",
+  "documents": "*.graphql"
+}
